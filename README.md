@@ -10,6 +10,13 @@ There are a number of useful techniques that can be leveraged to structure autom
 
 The main focus of the presentation will be to demonstrate practical examples to generate object-oriented data and suggested practices for structuring tests using that data and will look into various patterns like object mother, test data builder, derived values and equivalence classes / anonymous values.
 
+Further Reading
+---------------
+
+* [http://robdmoore.id.au/blog/2014/01/23/test-naming-automated-testing-series/](http://robdmoore.id.au/blog/2014/01/23/test-naming-automated-testing-series/)
+* [http://robdmoore.id.au/blog/2013/05/26/test-data-generation-the-right-way-object-mother-test-data-builders-nsubstitute-nbuilder/](http://robdmoore.id.au/blog/2013/05/26/test-data-generation-the-right-way-object-mother-test-data-builders-nsubstitute-nbuilder/)
+* [http://blog.ploeh.dk/2009/01/28/Zero-FrictionTDD/](http://blog.ploeh.dk/2009/01/28/Zero-FrictionTDD/)
+
 Presentation
 ------------
 
