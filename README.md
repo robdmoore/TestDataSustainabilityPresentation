@@ -8,7 +8,7 @@ It's fair to say that most line of business applications involve the capture, re
 
 There are a number of useful techniques that can be leveraged to structure automated tests to keep a focus on the important parts of the data for a given test (keeping tests readable and maintainable), as well as providing a mechanism to generate data sustainably in a way that can be reused for unit tests, integration tests, automated UI tests as well as data-seeding for focussed manual testing.
 
-The main focus of the presentation will be to demonstrate practical examples to generate object-oriented data and suggested practices for structuring tests using that data and will look into various patterns like object mother, test data builder, data list generation, proxy/mock objects, equivalence classes / anonymous values and immutable objects.
+The main focus of the presentation will be to demonstrate practical examples to generate object-oriented data and suggested practices for structuring tests using that data and will look into various patterns like object mother, test data builder, derived values and equivalence classes / anonymous values.
 
 Presentation
 ------------
