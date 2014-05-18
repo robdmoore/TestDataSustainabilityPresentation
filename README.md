@@ -1,6 +1,8 @@
 TestWest Presentation: Test Data re-usability and sustainability
 ================================================================
 
+[Download presentation file (.ppt)](https://github.com/robdmoore/TestWestTestDataSustainabilityPresentation/raw/master/Presentation.ppt).
+
 Overview
 --------
 
