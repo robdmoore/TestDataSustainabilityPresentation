@@ -15,6 +15,7 @@ The main focus of the presentation will be to demonstrate practical examples to 
 Further Reading
 ---------------
 
+* [https://github.com/robdmoore/TestingPatternsWithDossierPresentation](https://github.com/robdmoore/TestingPatternsWithDossierPresentation)
 * [http://robdmoore.id.au/blog/2014/01/23/test-naming-automated-testing-series/](http://robdmoore.id.au/blog/2014/01/23/test-naming-automated-testing-series/)
 * [http://robdmoore.id.au/blog/2013/05/26/test-data-generation-the-right-way-object-mother-test-data-builders-nsubstitute-nbuilder/](http://robdmoore.id.au/blog/2013/05/26/test-data-generation-the-right-way-object-mother-test-data-builders-nsubstitute-nbuilder/)
 * [http://blog.ploeh.dk/2009/01/28/Zero-FrictionTDD/](http://blog.ploeh.dk/2009/01/28/Zero-FrictionTDD/)
