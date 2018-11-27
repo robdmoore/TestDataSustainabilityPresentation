@@ -1,7 +1,7 @@
 TestWest Presentation: Test Data re-usability and sustainability
 ================================================================
 
-[Download presentation file (.ppt)](https://github.com/robdmoore/TestWestTestDataSustainabilityPresentation/raw/master/Presentation.ppt).
+[Download presentation file](https://github.com/robdmoore/TestWestTestDataSustainabilityPresentation/raw/master/Presentation.pptx).
 
 Overview
 --------
@@ -22,4 +22,4 @@ Further Reading
 Presentation
 ------------
 
-This presentation was given to the [TestWest Conference](http://www.bankwest.com.au/testwest) held by [BankWest](http://www.bankwest.com.au/) on March 12 2014 at Perth Convention and Exhibition Centre.
+This presentation was given to the [TestWest Conference](http://www.bankwest.com.au/testwest) held by [BankWest](http://www.bankwest.com.au/) on March 12 2014 at Perth Convention and Exhibition Centre, it has since been updated in 2018.
